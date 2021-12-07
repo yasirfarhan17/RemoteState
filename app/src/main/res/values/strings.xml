@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RemoteState</string>
+    <string name="daysago">daysAgo</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="txt_stopped_since">Stopped since</string>
+    <string name="txt_running_since_">Running since</string>
+    <string name="txt_app_namee">RemoteState</string>
+</resources>
